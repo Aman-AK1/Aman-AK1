@@ -26,7 +26,9 @@
 <!-- ABOUT ME -->
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/aman-kh27/aman-kh27/main/assets/coding.gif" alt="coding animation"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 - 🎓 Computer Engineering graduate from **M.H. Saboo Siddik College of Engineering** (CGPA: 7.90/10)
 - 💻 Hands-on experience in **full-stack web development** and **UI/UX design**
@@ -38,7 +40,14 @@
 - 📍 Based in Mumbai, Maharashtra
 - 📫 Reach me at **amannkhan1204@gmail.com**
 
-<br clear="right"/>
+</td>
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
