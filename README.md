@@ -129,6 +129,9 @@ Always building something new — check out my pinned repositories below for the
 
 
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-AK1&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-AK1&theme=tokyo-night&hide_border=true" width="95%"/>
