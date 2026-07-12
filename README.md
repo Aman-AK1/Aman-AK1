@@ -30,14 +30,10 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🎓 Computer Engineering graduate from **M.H. Saboo Siddik College of Engineering** (CGPA: 7.90/10)
+- 🎓 Computer Engineering graduate from **M.H. Saboo Siddik College of Engineering** 
 - 💻 Hands-on experience in **full-stack web development** and **UI/UX design**
 - 🎨 Recently worked as a **UI/UX Design Intern @ EVJoints**, designing 15+ web pages and building a reusable design system
 - 🧠 Passionate about building **scalable software** and **intuitive digital experiences**
-- 🏆 Winner — Innovative Idea Generation Competition (IIGC 2025), EDC MHSSCE
-- 🚀 Finalist at multiple hackathons — **Mumbai Hacks** & **AICodex**
-- 📢 Former PR Head, Programmers Club — led sponsorship outreach & cross-team coordination
-- 📍 Based in Mumbai, Maharashtra
 - 📫 Reach me at **amannkhan1204@gmail.com**
 
 </td>
@@ -65,7 +61,7 @@ AI-powered full-stack platform generating 5 personalized report sections — ATS
 
 `React` `Node.js` `MongoDB` `Gemini AI` `JWT`
 
-[🔗 Live Demo](#) · [📂 Source Code](https://github.com/Aman-AK1/ResumeIQ)
+[🔗 Live Demo](https://resume-iq-blond.vercel.app/) · [📂 Source Code](https://github.com/Aman-AK1/ResumeIQ)
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +73,7 @@ Researched 6+ geospatial/environmental parameters (NDWI, NDVI, DEM, altitude, su
 
 `Geospatial Analysis` `Figma` `Web App`
 
-[🔗 Live Demo](#) · [🎨 Figma](#) · [📂 Source Code](#)
+[🔗 Live Demo](https://gloftracker-nextjs.vercel.app/dashboard) · [🎨 Figma](#) · [📂 Source Code](#)
 
 </td>
 </tr>
@@ -91,7 +87,7 @@ Full-stack rental platform with secure authentication, property management, revi
 
 `HTML` `CSS` `JavaScript` `Node.js` `Express` `MongoDB`
 
-[🔗 Live Demo](#) · [📂 Source Code](https://github.com/Aman-AK1/Travnir)
+[🔗 Live Demo](https://travnir.onrender.com/listings/) · [📂 Source Code](https://github.com/Aman-AK1/Travnir)
 
 </td>
 <td width="50%" valign="top">
